@@ -17,4 +17,3 @@ def test_my_model():
     # Afficher les résultats
     print('Predictions:', y_pred)
 test_my_model()
-#test_model5.py 
