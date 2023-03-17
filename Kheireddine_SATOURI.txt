@@ -1,0 +1,7 @@
+-Positionnement sur ma branche selon notre workflow :
+git checkout Kheireddine
+-les testes de ma partie : 
+pytest -m model5.py --> appelle de l'annotation @pytest.mark.model5.
+-renforcement du code :
+x_test = [[11, 12 , 13 , 14 , 16 ,17], [11, 14 , 16 , 14 , 16 ,18], [19, 20 , 21 , 22 , 23 ,24]]
+
