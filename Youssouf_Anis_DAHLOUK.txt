@@ -5,8 +5,3 @@ pytest -m test_model4.py
 Renforcement de code : changement des valeurs x et y:
 x_train = [[1, 2, 3, 4, 5], [3, 4, 5, 7, 9], [5, 6, 4, 1, 0], [7, 8, 9, 10, 11], [9, 10, 12, 4, 8]]
 y_train = [5, 7, 9, 11, 13]
-=======
-Renforcement de code : changement des valeurs x et y:
-x_train = [[1, 2, 3, 4, 5], [3, 4, 5, 7, 9], [5, 6, 4, 1, 0], [7, 8, 9, 10, 11], [9, 10, 12, 4, 8]]
-y_train = [5, 7, 9, 11, 13]
->>>>>>> bead0e93e61499ec3d3e390ac7442de59f329081
