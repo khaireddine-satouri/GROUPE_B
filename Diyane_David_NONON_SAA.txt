@@ -1,2 +1,7 @@
 git checkout David
 pytest -m test_model3.py
+
+renforcement de code : changement des valeurs x et y 
+	-x_train = [[1, 2, 5 ,4], [3, 4, 1, 8], [5, 6, 2, 4], [7, 8, 7, 2]]
+	-y_train = [5, 7, 9, 11]
+  
