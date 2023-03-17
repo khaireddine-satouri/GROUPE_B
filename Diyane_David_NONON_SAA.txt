@@ -1,0 +1,2 @@
+git checkout David
+pytest -m test_model3.py
