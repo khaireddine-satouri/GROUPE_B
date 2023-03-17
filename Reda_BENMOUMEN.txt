@@ -1,0 +1,6 @@
+git checkout Reda
+pytest -m test_model2.py
+
+renforcement de code : changement des valeurs x et y 
+	x_test = [[88, 17, 15], [13, 14, 1800], [1777, 178455 , 65], [7, 815,1], [7709, 4510, 456]]
+    y_test = [5, 7, 9, 11, 13]
