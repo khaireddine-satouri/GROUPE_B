@@ -1,4 +1,4 @@
-fait les tests d'intégration 4 tests d'acceptations (format BDD de se code) de cette application : "import toga
+import toga
 import tensorflow as tf
 from sklearn.preprocessing import  StandardScaler
 import numpy as np
